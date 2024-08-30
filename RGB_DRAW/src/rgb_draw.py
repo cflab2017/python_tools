@@ -136,3 +136,5 @@ class RgbDraw():
             
 if __name__ == '__main__':
     main = RgbDraw()
+
+# pyinstaller -w -F rgb_draw.py
